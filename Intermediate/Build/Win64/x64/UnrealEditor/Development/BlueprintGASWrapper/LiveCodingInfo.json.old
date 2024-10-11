@@ -1,0 +1,33 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BlueprintGASWrapper.cpp.obj": [
+			"BlueprintGASWrapper.init.gen.cpp.obj",
+			"BPAbilitySystemComponent.gen.cpp.obj",
+			"BPAttributeSet.gen.cpp.obj",
+			"BPCharacter.gen.cpp.obj",
+			"BPGameplayAbility.gen.cpp.obj",
+			"EnhancedInputConfig.gen.cpp.obj",
+			"GSCAttributeSetBase.gen.cpp.obj",
+			"GSCAttributeSetClassTemplate.gen.cpp.obj",
+			"GSCAttributesGenSettings.gen.cpp.obj",
+			"GSCGlobalSettings.gen.cpp.obj",
+			"TaggedEnhancedInputComponent.gen.cpp.obj",
+			"GSCAttributeSetBase.cpp.obj",
+			"BlueprintGASWrapper.cpp.obj",
+			"BPCharacter.cpp.obj",
+			"GSCAttributesGenSettings.cpp.obj",
+			"GSCAttributesWizardCommands.cpp.obj",
+			"GSCGlobalSettings.cpp.obj",
+			"BPAbilitySystemComponent.cpp.obj",
+			"BPAttributeSet.cpp.obj",
+			"BPGameplayAbility.cpp.obj",
+			"EnhancedInputConfig.cpp.obj",
+			"TaggedEnhancedInputComponent.cpp.obj",
+			"GSCAttributeSetClassTemplate.cpp.obj",
+			"GSCTemplateProjectUtils.cpp.obj",
+			"GSCEditorStyle.cpp.obj",
+			"SGSCNewAttributeSetClassDialog.cpp.obj"
+		]
+	}
+}

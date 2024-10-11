@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\pntest\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\private\\blueprintgaswrapper.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\pntest\\intermediate\\build\\win64\\x64\\pntesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\pntest\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintgaswrapper\\definitions.blueprintgaswrapper.h",
+            "e:\\unreal projects\\pntest\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\public\\blueprintgaswrapper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
