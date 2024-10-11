@@ -12,10 +12,10 @@ void EmptyLinkFunctionForGeneratedCodeBPAbilitySystemComponent() {}
 // Begin Cross Module References
 BLUEPRINTGASWRAPPER_API UClass* Z_Construct_UClass_UBPAbilitySystemComponent();
 BLUEPRINTGASWRAPPER_API UClass* Z_Construct_UClass_UBPAbilitySystemComponent_NoRegister();
-BLUEPRINTGASWRAPPER_API UClass* Z_Construct_UClass_UBPAttributeSet_NoRegister();
 COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAbilitySystemComponent();
+GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAttributeSet_NoRegister();
 UPackage* Z_Construct_UPackage__Script_BlueprintGASWrapper();
 // End Cross Module References
 
@@ -117,8 +117,8 @@ struct Z_Construct_UClass_UBPAbilitySystemComponent_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSetClass = { "AttributeSetClass", nullptr, (EPropertyFlags)0x0024080000000005, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UBPAbilitySystemComponent, AttributeSetClass), Z_Construct_UClass_UClass, Z_Construct_UClass_UBPAttributeSet_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_AttributeSetClass_MetaData), NewProp_AttributeSetClass_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSet = { "AttributeSet", nullptr, (EPropertyFlags)0x002008000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UBPAbilitySystemComponent, AttributeSet), Z_Construct_UClass_UBPAttributeSet_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_AttributeSet_MetaData), NewProp_AttributeSet_MetaData) };
+const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSetClass = { "AttributeSetClass", nullptr, (EPropertyFlags)0x0024080000000005, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UBPAbilitySystemComponent, AttributeSetClass), Z_Construct_UClass_UClass, Z_Construct_UClass_UAttributeSet_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_AttributeSetClass_MetaData), NewProp_AttributeSetClass_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSet = { "AttributeSet", nullptr, (EPropertyFlags)0x002008000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UBPAbilitySystemComponent, AttributeSet), Z_Construct_UClass_UAttributeSet_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_AttributeSet_MetaData), NewProp_AttributeSet_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UBPAbilitySystemComponent_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSetClass,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UBPAbilitySystemComponent_Statics::NewProp_AttributeSet,
@@ -164,10 +164,10 @@ UBPAbilitySystemComponent::~UBPAbilitySystemComponent() {}
 struct Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_GameplayAbilityClassesWrapper_BPAbilitySystemComponent_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UBPAbilitySystemComponent, UBPAbilitySystemComponent::StaticClass, TEXT("UBPAbilitySystemComponent"), &Z_Registration_Info_UClass_UBPAbilitySystemComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UBPAbilitySystemComponent), 1340768520U) },
+		{ Z_Construct_UClass_UBPAbilitySystemComponent, UBPAbilitySystemComponent::StaticClass, TEXT("UBPAbilitySystemComponent"), &Z_Registration_Info_UClass_UBPAbilitySystemComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UBPAbilitySystemComponent), 1612405167U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_GameplayAbilityClassesWrapper_BPAbilitySystemComponent_h_1511600800(TEXT("/Script/BlueprintGASWrapper"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_GameplayAbilityClassesWrapper_BPAbilitySystemComponent_h_160964301(TEXT("/Script/BlueprintGASWrapper"),
 	Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_GameplayAbilityClassesWrapper_BPAbilitySystemComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_GameplayAbilityClassesWrapper_BPAbilitySystemComponent_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

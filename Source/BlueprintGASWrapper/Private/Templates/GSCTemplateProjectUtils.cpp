@@ -4,7 +4,7 @@
 
 #include "BlueprintGASWrapper.h"
 #include "ClassTemplateEditorSubsystem.h"
-#include "DesktopPlatformModule.h"
+#include "DesktopPlatform/Public/DesktopPlatformModule.h"
 #include "Editor.h"
 #include "GeneralProjectSettings.h"
 #include "ISourceControlModule.h"

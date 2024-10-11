@@ -10,7 +10,7 @@
 UGSCGlobalSettings::UGSCGlobalSettings(const FObjectInitializer& ObjectInitializer)
 {
 
-	if (UAbilitySystemGlobals::Get().AbilitySystemGlobalsClassName.IsNull() or UAbilitySystemGlobals::Get().AbilitySystemGlobalsClassName == FSoftClassPath("/Script/GameplayAbilities.AbilitySystemGlobals"))
+	if (UAbilitySystemGlobals::Get().AbilitySystemGlobalsClassName.IsNull() || UAbilitySystemGlobals::Get().AbilitySystemGlobalsClassName == FSoftClassPath("/Script/GameplayAbilities.AbilitySystemGlobals"))
 	{
 		UAbilitySystemGlobals::Get().AbilitySystemGlobalsClassName = AbilitySystemGlobalName;
 	}

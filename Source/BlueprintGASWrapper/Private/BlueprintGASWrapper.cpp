@@ -13,6 +13,7 @@
 #include "Core/Common/GSCAttributesWizardCommands.h"
 #include "Core/Common/GSCGlobalSettings.h"
 #include "UI/Styling/GSCEditorStyle.h"
+#include "ToolMenus.h"
 
 DEFINE_LOG_CATEGORY(LogBlueprintGASWrapper);
 
@@ -48,13 +49,14 @@ void FBlueprintGASWrapperModule::StartupModule()
 	}
 
 	// GameplayCue editor
+	const FSlateIcon GameplayCueIcon = FSlateIcon(FGSCEditorStyle::GetStyleSetName(), "BlueprintGASWrapperStyle.OpenPluginWindow");
 	FGlobalTabmanager::Get()->RegisterNomadTabSpawner( FName(TEXT("GameplayCueApp")), FOnSpawnTab::CreateRaw(this, &FBlueprintGASWrapperModule::SpawnGameplayCueEditorTab))
 		.SetDisplayName(NSLOCTEXT("BlueprintGASWrapperModule", "GameplayCueTabTitle", "GameplayCue Editor"))
 		.SetTooltipText(NSLOCTEXT("BlueprintGASWrapperModule", "GameplayCueTooltipText", "Open GameplayCue Editor tab."))
 		.SetGroup(WorkspaceMenu::GetMenuStructure().GetToolsCategory())
-		.SetIcon(FSlateIcon(FGSCEditorStyle::GetStyleSetName(), "BlueprintGASWrapperStyle.OpenPluginWindow"));
+		.SetIcon(GameplayCueIcon);
 
-#if WITH_RELOAD
+/*#if WITH_RELOAD
 	// This code attempts to relaunch the GameplayCueEditor tab when you hotreload this module
 	if (IsReloadActive() && FSlateApplication::IsInitialized())
 	{
@@ -62,7 +64,7 @@ void FBlueprintGASWrapperModule::StartupModule()
 		TSharedPtr<FTabManager> LevelEditorTabManager = LevelEditorModule.GetLevelEditorTabManager();
 		LevelEditorTabManager->TryInvokeTab(FName("GameplayCueApp"));
 	}
-#endif // WITH_RELOAD
+#endif // WITH_RELOAD*/
 
 }
 
@@ -178,7 +180,23 @@ void FBlueprintGASWrapperModule::RegisterMenus()
 {
 	RegisterComboButton();
 	FToolMenuOwnerScoped OwnerScoped(this);
-
+#if ENGINE_MAJOR_VERSION < 5
+	UToolMenu* Menu = UToolMenus::Get()->ExtendMenu("LevelEditor.LevelEditorToolBar");
+	FToolMenuSection& Section = Menu->FindOrAddSection("BlueprintGASWrapper");
+	const FSlateIcon Icon = FSlateIcon(FEditorStyle::GetStyleSetName(), "LevelEditor.Play");
+	const FText ShortIDEName = FSourceCodeNavigation::GetSelectedSourceCodeIDE();
+	FToolMenuEntry Entry = FToolMenuEntry::InitComboButton(
+		"BlueprintGASWrapper",
+		FUIAction(),
+		FOnGetContent::CreateStatic(&FBlueprintGASWrapperModule::GenerateMenu, PluginCommands.ToSharedRef()),
+		LOCTEXT("AddAttributeSetClass", "New C++ AttributeSet Class"),
+		FText::Format(LOCTEXT("AddAttributeSetClassTooltip", "Adds C++ AttributeSet code to the project. The code can only be compiled if you have {0} installed."), ShortIDEName),
+		Icon,
+		false
+	);
+	
+	Section.AddEntry(Entry);
+#else
 	UToolMenu* Menu = UToolMenus::Get()->ExtendMenu("LevelEditor.LevelEditorToolBar.PlayToolBar");
 	FToolMenuSection& Section = Menu->FindOrAddSection("BlueprintGASWrapper");
 
@@ -194,17 +212,20 @@ void FBlueprintGASWrapperModule::RegisterMenus()
 	);
 	Entry.StyleNameOverride = "CalloutToolbar";
 	Section.AddEntry(Entry);
+#endif // ENGINE_MAJOR_VERSION < 5
 }
 
 void FBlueprintGASWrapperModule::RegisterComboButton()
 {
 	UToolMenu* Menu = UToolMenus::Get()->ExtendMenu("LevelEditor.LevelEditorToolBar.BlueprintGASWrapper.Menu");
-	FToolMenuSection& Section = Menu->FindOrAddSection("BlueprintGASWrapper", TAttribute<FText>());
+	FToolMenuSection& Section = Menu->FindOrAddSection("BlueprintGASWrapper");
+	const FSlateIcon Icon = FSlateIcon(FEditorStyle::GetStyleSetName(), "LevelEditor.Play");
+	UE_LOG(LogTemp, Display, TEXT("Registering ComboButton"));
 	Section.AddMenuEntry(
 		"GASNewAttributeSetClass",
 		LOCTEXT("NewAttributeSetClass_Label", "New C++ AttributeSet Class..."),
 		LOCTEXT("NewAttributeSetClass_ToolTip", "Adds C++ AttributeSet code to the project. The code can only be compiled if you have an IDE installed."),
-		FSlateIcon(FAppStyle::GetAppStyleSetName(), "MainFrame.AddCodeToProject"),
+		FSlateIcon(),
 		FUIAction(FExecuteAction::CreateStatic(&OpenClassWizard))
 	);
 }

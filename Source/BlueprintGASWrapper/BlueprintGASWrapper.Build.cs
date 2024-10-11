@@ -58,7 +58,9 @@ public class BlueprintGASWrapper : ModuleRules
 				"SlateCore",
 				"GameplayAbilitiesEditor",
 				"GameplayTagsEditor", 
-				"WorkspaceMenuStructure"
+				"WorkspaceMenuStructure",
+				"MainFrame",
+				"ToolMenus"
 			});
 		
 		

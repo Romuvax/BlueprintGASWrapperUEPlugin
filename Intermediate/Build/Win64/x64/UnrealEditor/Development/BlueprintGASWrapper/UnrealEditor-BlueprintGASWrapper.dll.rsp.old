@@ -44,6 +44,7 @@
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
 "..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayAbilitiesEditor\UnrealEditor-GameplayAbilitiesEditor.lib"
 "..\Plugins\Editor\GameplayTagsEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTagsEditor\UnrealEditor-GameplayTagsEditor.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkspaceMenuStructure\UnrealEditor-WorkspaceMenuStructure.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayAbilities\UnrealEditor-GameplayAbilities.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"

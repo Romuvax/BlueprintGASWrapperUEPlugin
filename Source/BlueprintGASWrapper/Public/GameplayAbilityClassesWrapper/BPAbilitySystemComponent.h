@@ -46,7 +46,7 @@ protected:
 
 	TArray<FGameplayAbilitySpecHandle> InputHeldSpecHandles;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Character")
- 	TSubclassOf<UBPAttributeSet> AttributeSetClass;
+ 	TSubclassOf<UAttributeSet> AttributeSetClass;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Character")
-	UBPAttributeSet* AttributeSet;
+	UAttributeSet* AttributeSet;
 };

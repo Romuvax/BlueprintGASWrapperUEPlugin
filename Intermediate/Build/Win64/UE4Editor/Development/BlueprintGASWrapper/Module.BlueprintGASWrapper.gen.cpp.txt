@@ -1,0 +1,103 @@
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Definitions.BlueprintGASWrapper.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/BlueprintGASWrapper.init.gen.cpp
+E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/BPAbilitySystemComponent.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/GameplayAbilityClassesWrapper/BPAbilitySystemComponent.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemComponent.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\ScalableFloat.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public\DataRegistryId.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UE4Editor\Inc\DataRegistry\DataRegistryId.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\ScalableFloat.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectTypes.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemLog.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayPrediction.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayPrediction.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayCueInterface.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueInterface.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayAbilitySpec.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilitySpec.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffect.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectAggregator.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\ActiveGameplayEffectIterator.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffect.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTypes.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTargetTypes.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetTypes.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTypes.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTasksComponent.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskResource.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskResource.generated.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTasksComponent.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbility.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbility.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemReplicationProxyInterface.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemReplicationProxyInterface.generated.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPAbilitySystemComponent.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/BPGameplayAbility.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/GameplayAbilityClassesWrapper/BPGameplayAbility.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPGameplayAbility.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/EnhancedInputConfig.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/Input/EnhancedInputConfig.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputAction.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputActionValue.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputActionValue.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputMappingQuery.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputMappingQuery.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputModifiers.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputModifiers.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputTriggers.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputTriggers.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputAction.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\EnhancedInputConfig.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/GSCAttributeSetBase.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/Attributes/GSCAttributeSetBase.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectExtension.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetBase.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/GSCAttributeSetClassTemplate.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/Templates/GSCAttributeSetClassTemplate.h
+E:\Ungine\UE_4.27\Engine\Source\Editor\GameProjectGeneration\Public\ClassTemplateEditorSubsystem.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameProjectGeneration\ClassTemplateEditorSubsystem.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCAttributesGenSettings.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributesGenSettings.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetClassTemplate.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/GSCAttributesGenSettings.gen.cpp
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/GSCGlobalSettings.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/Core/Common/GSCGlobalSettings.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemGlobals.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayAbilitiesModule.h
+E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemGlobals.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCGlobalSettings.generated.h
+E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Intermediate/Build/Win64/UE4Editor/Inc/BlueprintGASWrapper/TaggedEnhancedInputComponent.gen.cpp
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/Input/TaggedEnhancedInputComponent.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\EnhancedInputComponent.h
+E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\EnhancedInputComponent.generated.h
+E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\TaggedEnhancedInputComponent.generated.h

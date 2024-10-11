@@ -219,7 +219,7 @@ struct Z_Construct_UClass_UGSCAttributesGenSettings_Statics
 		{ "ModuleRelativePath", "Public/Core/Common/GSCAttributesGenSettings.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Settings_MetaData[] = {
-		{ "Category", "GASCompanion Attributes Generation" },
+		{ "Category", "BlueprintGASWrapper Attributes Generation" },
 		{ "ModuleRelativePath", "Public/Core/Common/GSCAttributesGenSettings.h" },
 		{ "ShowOnlyInnerProperties", "" },
 	};
@@ -282,10 +282,10 @@ struct Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_B
 		{ FGSCAttributesSettings::StaticStruct, Z_Construct_UScriptStruct_FGSCAttributesSettings_Statics::NewStructOps, TEXT("GSCAttributesSettings"), &Z_Registration_Info_UScriptStruct_GSCAttributesSettings, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FGSCAttributesSettings), 1174510707U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UGSCAttributesGenSettings, UGSCAttributesGenSettings::StaticClass, TEXT("UGSCAttributesGenSettings"), &Z_Registration_Info_UClass_UGSCAttributesGenSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGSCAttributesGenSettings), 3758838100U) },
+		{ Z_Construct_UClass_UGSCAttributesGenSettings, UGSCAttributesGenSettings::StaticClass, TEXT("UGSCAttributesGenSettings"), &Z_Registration_Info_UClass_UGSCAttributesGenSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGSCAttributesGenSettings), 1200423720U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_2454462204(TEXT("/Script/BlueprintGASWrapper"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_26974514(TEXT("/Script/BlueprintGASWrapper"),
 	Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_Statics::ClassInfo),
 	Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_UEP5_4_ProjectNothing_Plugins_BlueprintGASWrapper_Source_BlueprintGASWrapper_Public_Core_Common_GSCAttributesGenSettings_h_Statics::ScriptStructInfo),
 	nullptr, 0);

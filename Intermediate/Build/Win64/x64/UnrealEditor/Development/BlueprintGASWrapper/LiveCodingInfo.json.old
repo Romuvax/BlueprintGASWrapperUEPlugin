@@ -27,6 +27,7 @@
 			"GSCAttributeSetClassTemplate.cpp.obj",
 			"GSCTemplateProjectUtils.cpp.obj",
 			"GSCEditorStyle.cpp.obj",
+			"SGameplayCueEditor.cpp.obj",
 			"SGSCNewAttributeSetClassDialog.cpp.obj"
 		]
 	}

@@ -36,7 +36,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "E:\Unreal Projects\UEP5.4\ProjectNothing\Intermediate\Build\Win64\x64\ProjectNothingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\Module.BlueprintGASWrapperRuntime.cpp.obj"
+"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\BlueprintGASWrapperRuntime.cpp.obj"
 "E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -46,9 +46,6 @@
 "..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayAbilities\UnrealEditor-GameplayAbilities.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTags\UnrealEditor-GameplayTags.lib"
-"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameProjectGeneration\UnrealEditor-GameProjectGeneration.lib"
-"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AppFramework\UnrealEditor-AppFramework.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"

@@ -1,8 +1,5 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.BlueprintGASWrapperRuntime.cpp.obj": [
-			"BlueprintGASWrapperRuntime.cpp.obj"
-		]
 	}
 }

@@ -3,7 +3,6 @@
 
 #include "GameplayAbilityClassesWrapper/BPAbilitySystemComponent.h"
 #include "GameplayAbilityClassesWrapper/BPGameplayAbility.h"
-#include "GameplayAbilityClassesWrapper/BPAttributeSet.h"
 
 
 // Sets default values for this component's properties

@@ -19,7 +19,6 @@
 #include "Widgets/Views/STableViewBase.h"
 #include "Widgets/Views/STableRow.h"
 #include "Widgets/Views/SListView.h"
-#include "Styling/AppStyle.h"
 #include "Widgets/SWindow.h"
 #include "Misc/MessageDialog.h"
 #include "Widgets/Images/SImage.h"
@@ -104,7 +103,7 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 	[
 		SNew(SBorder)
 		.Visibility(EVisibility::Visible)
-		.BorderImage(FAppStyle::GetBrush("Menu.Background"))
+		.BorderImage(FEditorStyle::GetBrush("Menu.Background"))
 		[
 			SNew(SBox)
 			.Visibility(EVisibility::Visible)
@@ -118,7 +117,7 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 				[
 					SNew(SBorder)
 					.Visibility(EVisibility::Visible)
-					.BorderImage( FAppStyle::GetBrush("AssetThumbnail.AssetBackground") )
+					.BorderImage( FEditorStyle::GetBrush("AssetThumbnail.AssetBackground") )
 					.BorderBackgroundColor(AssetColor.CopyWithNewOpacity(0.3f))
 					[
 						SNew(SExpandableArea)
@@ -181,7 +180,7 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 				[
 					SNew(SBorder)
 					.Visibility(EVisibility::Visible)
-					.BorderImage( FAppStyle::GetBrush("AssetThumbnail.AssetBackground") )
+					.BorderImage( FEditorStyle::GetBrush("AssetThumbnail.AssetBackground") )
 					.BorderBackgroundColor(AssetColor.CopyWithNewOpacity(0.3f))
 					[
 						SNew(SExpandableArea)
