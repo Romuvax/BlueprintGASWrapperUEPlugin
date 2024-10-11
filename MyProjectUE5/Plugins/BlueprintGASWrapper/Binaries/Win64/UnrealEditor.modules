@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"BlueprintGASWrapper": "UnrealEditor-BlueprintGASWrapper.dll",
+		"BlueprintGASWrapperRuntime": "UnrealEditor-BlueprintGASWrapperRuntime.dll"
+	}
+}

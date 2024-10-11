@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\private\\core\\common\\gscattributeswizardcommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\uep5.4\\projectnothing\\intermediate\\build\\win64\\x64\\projectnothingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintgaswrapper\\definitions.blueprintgaswrapper.h",
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\public\\core\\common\\gscattributeswizardcommands.h",
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\public\\ui\\styling\\gsceditorstyle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

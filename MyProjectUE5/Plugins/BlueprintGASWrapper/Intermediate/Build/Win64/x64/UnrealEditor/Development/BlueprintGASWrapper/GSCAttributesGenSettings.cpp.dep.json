@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\private\\core\\common\\gscattributesgensettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\uep5.4\\projectnothing\\intermediate\\build\\win64\\x64\\projectnothingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintgaswrapper\\definitions.blueprintgaswrapper.h",
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapper\\public\\core\\common\\gscattributesgensettings.h",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\ungine\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\unreal projects\\uep5.4\\projectnothing\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgaswrapper\\uht\\gscattributesgensettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

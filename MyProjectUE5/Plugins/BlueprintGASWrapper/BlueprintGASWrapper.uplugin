@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BlueprintGASWrapper",
+	"Description": "Blueprint wrapper for Gameplay Ability System by Epic.",
+	"Category": "AbilitySystem",
+	"CreatedBy": "Howechamaaaaa",
+	"CreatedByURL": "NONE",
+	"DocsURL": "NONE",
+	"MarketplaceURL": "NONE",
+	"SupportURL": "NONE",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintGASWrapper",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BlueprintGASWrapperRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}
