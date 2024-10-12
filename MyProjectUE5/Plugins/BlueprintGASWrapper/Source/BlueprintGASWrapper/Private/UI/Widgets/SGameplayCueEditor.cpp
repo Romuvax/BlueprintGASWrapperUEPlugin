@@ -58,10 +58,11 @@
 #include "AssetRegistry/AssetRegistryModule.h"
 #endif
 #include "Framework/MultiBox/MultiBoxBuilder.h"
-//#if ENGINE_MAJOR_VERSION < 5
-//#else
+#if ENGINE_MAJOR_VERSION < 5
 #include "GameplayTagsEditor/Private/SAddNewGameplayTagWidget.h"
-//#endif
+#else
+#include "SAddNewGameplayTagWidget.h"
+#endif
 
 
 #include "UI/Widgets/SGameplayCueEditor_Picker.h"
