@@ -1,0 +1,2 @@
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapperRuntime\Definitions.BlueprintGASWrapperRuntime.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapperRuntime\Public\BlueprintGASWrapperRuntime.h

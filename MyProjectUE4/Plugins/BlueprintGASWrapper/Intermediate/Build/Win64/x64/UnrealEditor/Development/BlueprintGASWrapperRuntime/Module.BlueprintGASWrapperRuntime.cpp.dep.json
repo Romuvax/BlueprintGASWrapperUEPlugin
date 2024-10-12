@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\blueprintgaswrapper\\myprojectue5\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintgaswrapperruntime\\module.blueprintgaswrapperruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\blueprintgaswrapper\\myprojectue5\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\blueprintgaswrapper\\myprojectue5\\plugins\\blueprintgaswrapper\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blueprintgaswrapperruntime\\definitions.blueprintgaswrapperruntime.h",
+            "e:\\blueprintgaswrapper\\myprojectue5\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapperruntime\\private\\blueprintgaswrapperruntime.cpp",
+            "e:\\blueprintgaswrapper\\myprojectue5\\plugins\\blueprintgaswrapper\\source\\blueprintgaswrapperruntime\\public\\blueprintgaswrapperruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

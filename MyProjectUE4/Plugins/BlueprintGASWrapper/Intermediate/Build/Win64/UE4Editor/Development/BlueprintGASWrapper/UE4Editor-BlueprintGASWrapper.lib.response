@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlueprintGASWrapper.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\BlueprintGASWrapper\MyProjectUE4\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.cpp.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Default.rc2.res"
+/OUT:"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\UE4Editor-BlueprintGASWrapper.lib"

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlueprintGASWrapper-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\UEP5.4\ProjectNothing\Intermediate\Build\Win64\x64\ProjectNothingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.cpp.obj"
+"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapper\Default.rc2.res"
+/OUT:"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapper\UnrealEditor-BlueprintGASWrapper-0012.lib"
