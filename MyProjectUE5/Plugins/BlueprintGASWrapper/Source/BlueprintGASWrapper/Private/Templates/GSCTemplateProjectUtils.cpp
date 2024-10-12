@@ -4,7 +4,11 @@
 
 #include "BlueprintGASWrapper.h"
 #include "ClassTemplateEditorSubsystem.h"
+#if ENGINE_MAJOR_VERSION < 5
 #include "DesktopPlatform/Public/DesktopPlatformModule.h"
+#else
+#include "DesktopPlatformModule.h"
+#endif // ENGINE_MAJOR_VERSION < 5
 #include "Editor.h"
 #include "GeneralProjectSettings.h"
 #include "ISourceControlModule.h"

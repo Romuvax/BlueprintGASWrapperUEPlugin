@@ -26,6 +26,11 @@
 #include "Styling/SlateIconFinder.h"
 #include "EditorClassUtils.h"
 #include "Editor.h"
+#if ENGINE_MAJOR_VERSION < 5
+#include "EditorStyleSet.h"
+#else
+#include "Styling/AppStyle.h"
+#endif // ENGINE_MAJOR_VERSION < 5
 
 /** Widget for picking a new GameplayCue Notify class (similar to actor class picker)  */
 class SPGameplayCuePickerDialog : public SCompoundWidget
@@ -103,7 +108,11 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 	[
 		SNew(SBorder)
 		.Visibility(EVisibility::Visible)
+#if ENGINE_MAJOR_VERSION < 5
 		.BorderImage(FEditorStyle::GetBrush("Menu.Background"))
+#else
+		.BorderImage(FAppStyle::GetBrush("Menu.Background"))
+#endif // ENGINE_MAJOR_VERSION < 5
 		[
 			SNew(SBox)
 			.Visibility(EVisibility::Visible)
@@ -117,7 +126,11 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 				[
 					SNew(SBorder)
 					.Visibility(EVisibility::Visible)
+#if ENGINE_MAJOR_VERSION < 5
 					.BorderImage( FEditorStyle::GetBrush("AssetThumbnail.AssetBackground") )
+					#else
+					.BorderImage(FAppStyle::GetBrush("AssetThumbnail.AssetBackground"))
+					#endif // ENGINE_MAJOR_VERSION < 5
 					.BorderBackgroundColor(AssetColor.CopyWithNewOpacity(0.3f))
 					[
 						SNew(SExpandableArea)
@@ -180,7 +193,11 @@ void SPGameplayCuePickerDialog::Construct(const FArguments& InArgs)
 				[
 					SNew(SBorder)
 					.Visibility(EVisibility::Visible)
+#if ENGINE_MAJOR_VERSION < 5
 					.BorderImage( FEditorStyle::GetBrush("AssetThumbnail.AssetBackground") )
+#else
+					.BorderImage(FAppStyle::GetBrush("AssetThumbnail.AssetBackground"))
+					#endif // ENGINE_MAJOR_VERSION < 5
 					.BorderBackgroundColor(AssetColor.CopyWithNewOpacity(0.3f))
 					[
 						SNew(SExpandableArea)

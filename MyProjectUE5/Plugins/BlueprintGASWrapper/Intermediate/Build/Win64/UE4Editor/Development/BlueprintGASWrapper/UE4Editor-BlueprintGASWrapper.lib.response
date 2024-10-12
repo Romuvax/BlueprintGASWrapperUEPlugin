@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-BlueprintGASWrapper.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\Unreal Projects\UEP4.27\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.cpp.obj"
-"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp.obj"
-"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Default.rc2.res"
-/OUT:"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\UE4Editor-BlueprintGASWrapper.lib"
+"E:\BlueprintGASWrapper\MyProjectUE4\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.cpp.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp.obj"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Default.rc2.res"
+/OUT:"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\UE4Editor-BlueprintGASWrapper.lib"

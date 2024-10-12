@@ -240,6 +240,7 @@
 /I ..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Classes
 /I ..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Public
 /I Editor\WorkspaceMenuStructure\Public
+/I Editor\MainFrame\Public
 /I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper"
 /I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source"
 /I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public"

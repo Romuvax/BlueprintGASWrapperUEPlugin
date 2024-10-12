@@ -290,6 +290,7 @@
 /I "..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Classes"
 /I "..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Public"
 /I "..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Internal"
+/I "Editor\WorkspaceMenuStructure\Public"
 /I "E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UnrealEditor\Inc\BlueprintGASWrapper\UHT"
 /I "E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Source"
 /I "E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public"

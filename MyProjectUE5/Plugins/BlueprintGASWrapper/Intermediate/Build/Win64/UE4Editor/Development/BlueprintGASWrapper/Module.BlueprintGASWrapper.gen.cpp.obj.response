@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Private"
+/I E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -241,9 +241,9 @@
 /I ..\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor\Public
 /I Editor\WorkspaceMenuStructure\Public
 /I Editor\MainFrame\Public
-/I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper"
-/I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source"
-/I "E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public"
+/I E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper
+/I E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source
+/I E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
 /I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UE4Editor\Inc\DataRegistry
@@ -287,12 +287,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"E:\Unreal Projects\UEP4.27\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"E:\Unreal Projects\UEP4.27\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"E:\Unreal Projects\UEP4.27\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp"
-/FI"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Definitions.BlueprintGASWrapper.h"
-/Fo"E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp.obj"
+/FI"E:\BlueprintGASWrapper\MyProjectUE4\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"E:\BlueprintGASWrapper\MyProjectUE4\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"E:\BlueprintGASWrapper\MyProjectUE4\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp"
+/FI"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Definitions.BlueprintGASWrapper.h"
+/Fo"E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Module.BlueprintGASWrapper.gen.cpp.obj"
 /TP
 /GR-
 /W4

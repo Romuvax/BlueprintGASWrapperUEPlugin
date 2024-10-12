@@ -1,6 +1,6 @@
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Definitions.BlueprintGASWrapper.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Attributes/GSCAttributeSetBase.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Attributes/GSCAttributeSetBase.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Development\BlueprintGASWrapper\Definitions.BlueprintGASWrapper.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Attributes/GSCAttributeSetBase.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Attributes/GSCAttributeSetBase.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemComponent.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
@@ -52,11 +52,11 @@ E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Wi
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModel.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectExtension.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetBase.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/BlueprintGASWrapper.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\BlueprintGASWrapper.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetBase.generated.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/BlueprintGASWrapper.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\BlueprintGASWrapper.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\GameProjectGeneration\Public\AddToProjectConfig.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Widgets/SGameplayCueEditor.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Widgets/SGameplayCueEditor.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SUserWidget.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemGlobals.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayAbilitiesModule.h
@@ -69,7 +69,7 @@ E:\Ungine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\SourceCodeNavigation.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructureModule.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructure.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/UI/Widgets/SGSCNewAttributeSetClassDialog.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper/Public/UI/Widgets/SGSCNewAttributeSetClassDialog.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\GameProjectGeneration\Public\GameProjectUtils.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\GameProjectGeneration\Public\GameProjectGenerationModule.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
@@ -77,15 +77,15 @@ E:\Ungine\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\HardwareTargeting\Public\HardwareTargetingSettings.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HardwareTargeting\HardwareTargetingSettings.generated.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCAttributesWizardCommands.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Styling/GSCEditorStyle.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCAttributesWizardCommands.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Styling/GSCEditorStyle.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCGlobalSettings.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCGlobalSettings.generated.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCGlobalSettings.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCGlobalSettings.generated.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
@@ -106,16 +106,16 @@ E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMe
 E:\Ungine\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCAttributesGenSettings.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCAttributesGenSettings.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCAttributesGenSettings.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Core/Common/GSCAttributesGenSettings.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributesGenSettings.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCAttributesWizardCommands.cpp
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCGlobalSettings.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributesGenSettings.generated.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCAttributesWizardCommands.cpp
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Core/Common/GSCGlobalSettings.cpp
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayCueManager.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayCue_Types.h
@@ -124,14 +124,14 @@ E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilit
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueTranslator.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueManager.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilitiesEditor\Public\GameplayAbilitiesEditorModule.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/GameplayAbilityClassesWrapper/BPAbilitySystemComponent.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\GameplayAbilityClassesWrapper/BPAbilitySystemComponent.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPAbilitySystemComponent.generated.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\GameplayAbilityClassesWrapper/BPGameplayAbility.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPGameplayAbility.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/GameplayAbilityClassesWrapper/BPGameplayAbility.cpp
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Input/EnhancedInputConfig.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Input/EnhancedInputConfig.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/GameplayAbilityClassesWrapper/BPAbilitySystemComponent.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\GameplayAbilityClassesWrapper/BPAbilitySystemComponent.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPAbilitySystemComponent.generated.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\GameplayAbilityClassesWrapper/BPGameplayAbility.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\BPGameplayAbility.generated.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/GameplayAbilityClassesWrapper/BPGameplayAbility.cpp
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Input/EnhancedInputConfig.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Input/EnhancedInputConfig.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputAction.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputActionValue.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputActionValue.generated.h
@@ -142,19 +142,19 @@ E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\W
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\InputTriggers.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputTriggers.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\InputAction.generated.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\EnhancedInputConfig.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Input/TaggedEnhancedInputComponent.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Input/TaggedEnhancedInputComponent.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\EnhancedInputConfig.generated.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Input/TaggedEnhancedInputComponent.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Input/TaggedEnhancedInputComponent.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Source\EnhancedInput\Public\EnhancedInputComponent.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Inc\EnhancedInput\EnhancedInputComponent.generated.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\TaggedEnhancedInputComponent.generated.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Templates/GSCAttributeSetClassTemplate.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Templates/GSCAttributeSetClassTemplate.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\TaggedEnhancedInputComponent.generated.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Templates/GSCAttributeSetClassTemplate.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Templates/GSCAttributeSetClassTemplate.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\GameProjectGeneration\Public\ClassTemplateEditorSubsystem.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameProjectGeneration\ClassTemplateEditorSubsystem.generated.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetClassTemplate.generated.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGASWrapper\GSCAttributeSetClassTemplate.generated.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\EngineSettings\Classes\GeneralProjectSettings.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings\GeneralProjectSettings.generated.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
@@ -163,8 +163,8 @@ E:\Ungine\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Templates/GSCTemplateProjectUtils.cpp
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Templates/GSCTemplateProjectUtils.h
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/Templates/GSCTemplateProjectUtils.cpp
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\Templates/GSCTemplateProjectUtils.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\DesktopPlatform/Public/DesktopPlatformModule.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\IDesktopPlatform.h
 E:\Ungine\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlModule.h
@@ -190,10 +190,10 @@ E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/HotReloadInterface.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Styling/GSCEditorStyle.cpp
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Styling/GSCEditorStyle.cpp
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Widgets/SGameplayCueEditor.cpp
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Widgets/SGameplayCueEditor.cpp
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/BlueprintFactory.h
@@ -242,11 +242,11 @@ E:\Ungine\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAsse
 E:\Ungine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
 E:\Ungine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
 E:\Ungine\UE_4.27\Engine\Plugins\Editor\GameplayTagsEditor\Source\GameplayTagsEditor/Private/SAddNewGameplayTagWidget.h
-E:\Unreal Projects\UEP4.27\MyProject\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Widgets/SGameplayCueEditor_Picker.h
+E:\BlueprintGASWrapper\MyProjectUE4\Plugins\BlueprintGASWrapper\Source\BlueprintGASWrapper\Public\UI/Widgets/SGameplayCueEditor_Picker.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SExpandableArea.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateIconFinder.h
 E:\Ungine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\EditorClassUtils.h
-E:/Unreal Projects/UEP4.27/MyProject/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Widgets/SGSCNewAttributeSetClassDialog.cpp
+E:/BlueprintGASWrapper/MyProjectUE4/Plugins/BlueprintGASWrapper/Source/BlueprintGASWrapper/Private/UI/Widgets/SGSCNewAttributeSetClassDialog.cpp
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SGridPanel.h
 E:\Ungine\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h

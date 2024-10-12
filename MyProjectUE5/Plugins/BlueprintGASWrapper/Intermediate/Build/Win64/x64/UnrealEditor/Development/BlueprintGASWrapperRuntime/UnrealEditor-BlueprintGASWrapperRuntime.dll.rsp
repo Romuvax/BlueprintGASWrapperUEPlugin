@@ -35,9 +35,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"E:\Unreal Projects\UEP5.4\ProjectNothing\Intermediate\Build\Win64\x64\ProjectNothingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\BlueprintGASWrapperRuntime.cpp.obj"
-"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\Default.rc2.res"
+"E:\BlueprintGASWrapper\MyProjectUE5\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\BlueprintGASWrapper\MyProjectUE5\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\Module.BlueprintGASWrapperRuntime.cpp.obj"
+"E:\BlueprintGASWrapper\MyProjectUE5\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -71,7 +71,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Binaries\Win64\UnrealEditor-BlueprintGASWrapperRuntime.dll"
-/IMPLIB:"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\UnrealEditor-BlueprintGASWrapperRuntime.sup.lib"
-/PDB:"E:\Unreal Projects\UEP5.4\ProjectNothing\Plugins\BlueprintGASWrapper\Binaries\Win64\UnrealEditor-BlueprintGASWrapperRuntime.pdb"
+/OUT:"E:\BlueprintGASWrapper\MyProjectUE5\Plugins\BlueprintGASWrapper\Binaries\Win64\UnrealEditor-BlueprintGASWrapperRuntime.dll"
+/IMPLIB:"E:\BlueprintGASWrapper\MyProjectUE5\Plugins\BlueprintGASWrapper\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlueprintGASWrapperRuntime\UnrealEditor-BlueprintGASWrapperRuntime.sup.lib"
+/PDB:"E:\BlueprintGASWrapper\MyProjectUE5\Plugins\BlueprintGASWrapper\Binaries\Win64\UnrealEditor-BlueprintGASWrapperRuntime.pdb"
 /ignore:4078

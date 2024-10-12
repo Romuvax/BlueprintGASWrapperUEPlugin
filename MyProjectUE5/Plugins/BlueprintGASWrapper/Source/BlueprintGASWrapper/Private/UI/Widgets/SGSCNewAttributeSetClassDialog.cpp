@@ -140,10 +140,19 @@ void SGSCNewAttributeSetClassDialog::Construct(const FArguments& InArgs)
 		[
 			SAssignNew(MainWizard, SWizard)
 			.ShowPageList(false)
+#if ENGINE_MAJOR_VERSION < 5
 			.ButtonStyle(FEditorStyle::Get(), "FlatButton.Default")
 			.CancelButtonStyle(FEditorStyle::Get(), "FlatButton.Default")
 			.FinishButtonStyle(FEditorStyle::Get(), "FlatButton.Success")
 			.ButtonTextStyle(FEditorStyle::Get(), "LargeText")
+#else
+			.ButtonStyle(FAppStyle::Get(), "FlatButton.Default")
+			.CancelButtonStyle(FAppStyle::Get(), "FlatButton.Default")
+			.FinishButtonStyle(FAppStyle::Get(), "FlatButton.Success")
+			.ButtonTextStyle(FAppStyle::Get(), "LargeText")
+#endif
+			
+			
 			#if ENGINE_MAJOR_VERSION == 4
 			.ForegroundColor(FEditorStyle::Get().GetSlateColor("WhiteBrush"))
 			#endif
@@ -303,7 +312,12 @@ void SGSCNewAttributeSetClassDialog::Construct(const FArguments& InArgs)
 										.AutoWidth()
 										[
 											SNew(SCheckBox)
+#if ENGINE_MAJOR_VERSION < 5
 											.Style(FEditorStyle::Get(), "Property.ToggleButton.Start")
+#else
+											.Style(FAppStyle::Get(), "Property.ToggleButton.Start")
+#endif
+											
 											.IsChecked(this, &SGSCNewAttributeSetClassDialog::IsClassLocationActive, GameProjectUtils::EClassLocation::Public)
 											.OnCheckStateChanged(this, &SGSCNewAttributeSetClassDialog::OnClassLocationChanged, GameProjectUtils::EClassLocation::Public)
 											.ToolTipText(LOCTEXT("ClassLocation_Public", "A public class can be included and used inside other modules in addition to the module it resides in"))
@@ -324,7 +338,12 @@ void SGSCNewAttributeSetClassDialog::Construct(const FArguments& InArgs)
 										.AutoWidth()
 										[
 											SNew(SCheckBox)
+#if ENGINE_MAJOR_VERSION < 5
 											.Style(FEditorStyle::Get(), "Property.ToggleButton.End")
+#else
+											.Style(FAppStyle::Get(), "Property.ToggleButton.End")
+#endif
+											
 											.IsChecked(this, &SGSCNewAttributeSetClassDialog::IsClassLocationActive, GameProjectUtils::EClassLocation::Private)
 											.OnCheckStateChanged(this, &SGSCNewAttributeSetClassDialog::OnClassLocationChanged, GameProjectUtils::EClassLocation::Private)
 											.ToolTipText(LOCTEXT("ClassLocation_Private", "A private class can only be included and used within the module it resides in"))
