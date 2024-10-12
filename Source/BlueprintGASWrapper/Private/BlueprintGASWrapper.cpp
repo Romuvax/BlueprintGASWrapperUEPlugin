@@ -3,6 +3,12 @@
 #include "BlueprintGASWrapper.h"
 
 #include "AbilitySystemGlobals.h"
+#if ENGINE_MAJOR_VERSION < 5
+#include "EditorStyleSet.h"
+#else
+#include "Styling/AppStyle.h"
+#endif
+
 #include "ISettingsModule.h"
 #include "LevelEditor.h"
 #include "SourceCodeNavigation.h"
@@ -219,13 +225,21 @@ void FBlueprintGASWrapperModule::RegisterComboButton()
 {
 	UToolMenu* Menu = UToolMenus::Get()->ExtendMenu("LevelEditor.LevelEditorToolBar.BlueprintGASWrapper.Menu");
 	FToolMenuSection& Section = Menu->FindOrAddSection("BlueprintGASWrapper");
+#if ENGINE_MAJOR_VERSION < 5
 	const FSlateIcon Icon = FSlateIcon(FEditorStyle::GetStyleSetName(), "LevelEditor.Play");
+#else
+	const FSlateIcon Icon = FSlateIcon(FAppStyle::GetAppStyleSetName(), "MainFrame.AddCode");
+#endif // ENGINE_MAJOR_VERSION < 5
 	UE_LOG(LogTemp, Display, TEXT("Registering ComboButton"));
 	Section.AddMenuEntry(
 		"GASNewAttributeSetClass",
 		LOCTEXT("NewAttributeSetClass_Label", "New C++ AttributeSet Class..."),
 		LOCTEXT("NewAttributeSetClass_ToolTip", "Adds C++ AttributeSet code to the project. The code can only be compiled if you have an IDE installed."),
+#if ENGINE_MAJOR_VERSION < 5
 		FSlateIcon(),
+#else
+		FSlateIcon(Icon),
+#endif // ENGINE_MAJOR_VERSION < 5
 		FUIAction(FExecuteAction::CreateStatic(&OpenClassWizard))
 	);
 }
